@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#info {
+    margin-bottom: 10px;
+}
+
+#campominado {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    grid-gap: 2px;
+    justify-content: center;
+}
+
+.campo {
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    border: 1px solid #999;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.campolivre {
+    background-color: white;
+}
+
+.mina {
+    background-color: black;
+}
+
+.bandeira {
+    background-color: red;
+}

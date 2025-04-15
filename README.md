@@ -19,12 +19,6 @@
   <li>Automatic restart when you win or lose</li>
 </ul>
 
-<h2>🗂️ Project Structure</h2>
-<pre>
-index.html
-</pre>
-<p>All the code (HTML, CSS, and JavaScript) is contained in a single file: <code>index.html</code>.</p>
-
 <h2>💡 How to Play</h2>
 <ul>
   <li><strong>Left-click</strong>: Reveals the field</li>
